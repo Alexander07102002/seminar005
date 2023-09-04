@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\bin\Debug\net6.0\nechet.exe
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\bin\Debug\net6.0\nechet.deps.json
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\bin\Debug\net6.0\nechet.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\bin\Debug\net6.0\nechet.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\bin\Debug\net6.0\nechet.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\refint\nechet.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\nechet.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar005\nechet\obj\Debug\net6.0\ref\nechet.dll
